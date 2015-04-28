@@ -1,0 +1,7 @@
+1) cgrid_state2.js en /opt/canopsis/var/www/canopsis/app/lib/view/
+
+2) copiar la carpeta /opt/canopsis/var/www/canopsis/widgets/list en /opt/canopsis/var/www/canopsis/widgets/list2
+
+3) copiar los archivos list2.js & widget.json en /opt/canopsis/var/www/canopsis/widgets/list2/
+
+4) cstore.js & Event.js estan para ver info, no hace falta deployarlos
